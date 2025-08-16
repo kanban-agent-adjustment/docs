@@ -1,0 +1,25 @@
+{
+  "cards": [
+    {
+      "id": "policy-engine-spec",
+      "title": "Core Component: Behavior Policy Engine",
+      "description": "The engine must evaluate agent actions in context and apply policies.",
+      "status": "research",
+      "order": 1,
+      "tags": ["architecture", "policy", "engine"],
+      "createdAt": "2025-08-16T10:00:00Z",
+      "updatedAt": "2025-08-16T11:00:00Z"
+    },
+    {
+      "id": "ui-kanban-view",
+      "title": "Frontend Kanban View",
+      "description": "A simple read-only board rendering cards grouped by status.",
+      "status": "done",
+      "order": 2,
+      "tags": ["frontend", "ui"],
+      "createdAt": "2025-08-16T10:15:00Z",
+      "updatedAt": "2025-08-16T11:30:00Z",
+      "completedAt": "2025-08-16T11:45:00Z"
+    }
+  ]
+}
